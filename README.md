@@ -1,0 +1,2 @@
+# pidgeyfinder-translations
+PidgeyFinder translations
