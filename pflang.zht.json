@@ -1,0 +1,48 @@
+{
+	"WELCOME_TITLE": "歡迎使用PidgeyFinder",
+	"WELCOME_TEXT": "您好，歡迎使用PidgeyFinder！我們是一個免費的精靈寶可夢Go地圖網站。您無須登陸您的賬號，所有掃描都在我們的服務器端執行。同時我們也是開源的！從這裏訪問我們的GitHub，這裏訪問我們的Twitter。",
+	"WELCOME_SERVER_STATUS": "服務器狀態",
+
+	"MODAL_SHOW_AGAIN": "Show again",
+	"MODAL_DISMISS": "Dismiss",
+
+	"MENU_FAQ": "FAQ",
+	"MENU_RESET_2D": "Reset to 2D",
+	"MENU_RELOAD": "Reload",
+	"MENU_LOCATE": "定位",
+	"MENU_SETTINGS": "設置",
+
+	"DONATE_TITLE": "Donate to PidgeyFinder",
+	"DONATE_TEXT": "PidgeyFinder runs only with donations and ad revenue. We need your help! Ad revenue won't keep our service up. To continue our service we allow donations. We accept Bitcoin and PayPal as donation methods. Donate below:",
+	"DONATE_BUTTON": "Donate with",
+	"DONATE_PAYPAL_TEXT": "Prefer old-fashioned ways? PayPal allows donating with credit cards or PayPal money.",
+	"DONATE_BITCOIN_TEXT": "Bitcoin is the currency of the future – are you from the future? Bitcoin has no fees and is the best method to donate us money.",
+
+	"FAQ_TITLE": "FAQ",
+	"FAQ_EXPLAIN": "Frequently asked questions",
+	"FAQ_NOTHING_MAP_TITLE": "我地圖上什麼都沒有！我該如何掃描？",
+	"FAQ_NOTHING_MAP_TEXT": "如果您正在查看的區域之前沒有被掃描過，點擊地圖將會對該區域的寶可夢，寶可補給站和擂臺道館進行掃描。下次您訪問本站時，寶可補給站和擂臺道館的位置將被記錄。",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "為什麽我的設備不支持？",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "在制作PidgeyFinder時，我們嘗試使用最新，最快，最優化的技術。其中部分技術可能與較老的設備，瀏覽器或操作系統不兼容。請先嘗試更新您的瀏覽器。",
+	"FAQ_SCAN_FAILED_TITLE": "Why do I get Scan failed? / Why is scanning taking so much time?",
+	"FAQ_SCAN_FAILED_TEXT": "我們的服務器會根據當前客戶端計數自動調整。在所有線程均被占用的情況下掃描可能需要非常長的時間甚至無法掃描。請稍後重試！",
+	"FAQ_NO_LOCATE_TITLE": "Locate button is not working, what do I do?",
+	"FAQ_NO_LOCATE_TEXT": "Check that you have given locating permissions to PidgeyFinder. If you have given permissions and locating is not working, chances are we are fixing the problem.",
+	"FAQ_SHOW_LURES_TITLE": "How can I see lures?",
+	"FAQ_SHOW_LURES_TEXT": "Lures are only shown when the Pokéstop is fetched with a scan. This is to prevent giving wrong information about lures and when they expire.",
+
+	"SETTINGS_TITLE": "設置",
+	"SETTINGS_MAP_TITLE": "Map",
+	"SETTINGS_MAP_3D": "3D / map turning",
+	"SETTINGS_MAP_UPDATE_LOCATION": "Update location automatically",
+	"SETTINGS_MAP_CENTER_MAP": "Center map when location changes",
+	"SETTINGS_FILTERS_TITLE": "Filters",
+	"SETTINGS_FILTERS_GYMS": "Gyms",
+	"SETTINGS_FILTERS_POKESTOPS": "Pokéstops",
+	"SETTINGS_FILTERS_POKEMON": "Pokémon",
+	"SETTINGS_FILTERS_SHOWN_POKEMON": "Shown Pokémon",
+	"SETTINGS_FILTERS_SHOWN_POKEMON_RESET": "Reset",
+
+	"INPUT_TOGGLE_ON": "On",
+	"INPUT_TOGGLE_OFF": "Off"
+}
