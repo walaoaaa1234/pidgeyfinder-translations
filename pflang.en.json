@@ -1,0 +1,48 @@
+{
+	"WELCOME_TITLE": "Welcome to PidgeyFinder",
+	"WELCOME_TEXT": "Hello, and welcome to PidgeyFinder! We're a free Pokémon Go mapping website. You do not need to register an account – all scans are executed in our servers. We are open source too! Visit our {#github{GitHub}} here and Twitter {#twitter{here}}.",
+	"WELCOME_SERVER_STATUS": "Server Status",
+
+	"MODAL_SHOW_AGAIN": "Show again",
+	"MODAL_DISMISS": "Dismiss",
+
+	"MENU_FAQ": "FAQ",
+	"MENU_RESET_2D": "Reset to 2D",
+	"MENU_RELOAD": "Reload",
+	"MENU_LOCATE": "Locate",
+	"MENU_SETTINGS": "Settings",
+
+	"DONATE_TITLE": "Donate to PidgeyFinder",
+	"DONATE_TEXT": "PidgeyFinder runs only with donations and ad revenue. We need your help! Ad revenue won't keep our service up. To continue our service we allow donations. We accept Bitcoin and PayPal as donation methods. Donate below:",
+	"DONATE_BUTTON": "Donate with",
+	"DONATE_PAYPAL_TEXT": "Prefer old-fashioned ways? PayPal allows donating with credit cards or PayPal money.",
+	"DONATE_BITCOIN_TEXT": "Bitcoin is the currency of the future – are you from the future? Bitcoin has no fees and is the best method to donate us money.",
+
+	"FAQ_TITLE": "FAQ",
+	"FAQ_EXPLAIN": "Frequently asked questions",
+	"FAQ_NOTHING_MAP_TITLE": "There is nothing on my map! How do I scan?",
+	"FAQ_NOTHING_MAP_TEXT": "If the area you are viewing has not been scanned before, click the map and we will scan the area for Pokémon, Pokéstops and gyms. Next time you visit our site the map will remember Pokéstop and gym locations!",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "Why is my device not supported?",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "We try to use the newest, fastest and most optimal technologies when making PidgeyFinder. Some of these technologies do not work with older devices, browsers or operating systems. Try updating your browser first.",
+	"FAQ_SCAN_FAILED_TITLE": "Why do I get Scan failed? / Why is scanning taking so much time?",
+	"FAQ_SCAN_FAILED_TEXT": "Our servers scale automatically by current client count. If all of our workers are currently in use the scan time can be very long or you can't simply scan. Try again later!",
+	"FAQ_NO_LOCATE_TITLE": "Locate button is not working, what do I do?",
+	"FAQ_NO_LOCATE_TEXT": "Check that you have given locating permissions to PidgeyFinder. If you have given permissions and locating is not working, chances are we are fixing the problem.",
+	"FAQ_SHOW_LURES_TITLE": "How can I see lures?",
+	"FAQ_SHOW_LURES_TEXT": "Lures are only shown when the Pokéstop is fetched with a scan. This is to prevent giving wrong information about lures and when they expire.",
+
+	"SETTINGS_TITLE": "Settings",
+	"SETTINGS_MAP_TITLE": "Map",
+	"SETTINGS_MAP_3D": "3D / map turning",
+	"SETTINGS_MAP_UPDATE_LOCATION": "Update location automatically",
+	"SETTINGS_MAP_CENTER_MAP": "Center map when location changes",
+	"SETTINGS_FILTERS_TITLE": "Filters",
+	"SETTINGS_FILTERS_GYMS": "Gyms",
+	"SETTINGS_FILTERS_POKESTOPS": "Pokéstops",
+	"SETTINGS_FILTERS_POKEMON": "Pokémon",
+	"SETTINGS_FILTERS_SHOWN_POKEMON": "Shown Pokémon",
+	"SETTINGS_FILTERS_SHOWN_POKEMON_RESET": "Reset",
+
+	"INPUT_TOGGLE_ON": "On",
+	"INPUT_TOGGLE_OFF": "Off"
+}
