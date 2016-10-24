@@ -1,0 +1,48 @@
+{
+	"WELCOME_TITLE": "Добро пожаловать на PidgeyFinder",
+	"WELCOME_TEXT": "Привет, мы рады видеть тебя на PidgeyFinder! Наш сайт - бесплатный сервис для поиска покемонов игры Pokemon GO. Тебе не нужно создавать аккаунты - все сканирование происходит на наших серверах. Мы являемся open-source проектом! Посетите наш репозиторий Github и наш Twitter",
+	"WELCOME_SERVER_STATUS": "Статус серверов",
+
+	"MODAL_SHOW_AGAIN": "Show again",
+	"MODAL_DISMISS": "Dismiss",
+
+	"MENU_FAQ": "FAQ",
+	"MENU_RESET_2D": "Reset to 2D",
+	"MENU_RELOAD": "Reload",
+	"MENU_LOCATE": "Локация",
+	"MENU_SETTINGS": "Настройки",
+
+	"DONATE_TITLE": "Donate to PidgeyFinder",
+	"DONATE_TEXT": "PidgeyFinder runs only with donations and ad revenue. We need your help! Ad revenue won't keep our service up. To continue our service we allow donations. We accept Bitcoin and PayPal as donation methods. Donate below:",
+	"DONATE_BUTTON": "Donate with",
+	"DONATE_PAYPAL_TEXT": "Prefer old-fashioned ways? PayPal allows donating with credit cards or PayPal money.",
+	"DONATE_BITCOIN_TEXT": "Bitcoin is the currency of the future – are you from the future? Bitcoin has no fees and is the best method to donate us money.",
+
+	"FAQ_TITLE": "FAQ",
+	"FAQ_EXPLAIN": "Frequently asked questions",
+	"FAQ_NOTHING_MAP_TITLE": "На моей карте ничего не отображается! Как мне запустить сканирование?",
+	"FAQ_NOTHING_MAP_TEXT": "Если область, которую ты просматриваешь, ранее никогда не сканировалась, нажми на карту и мы просканируем эту область на наличие Покемонов, Покестопов (Pokéstops) и Арен (Gyms). Сайт сохранит все обнаруженные Покестопы и Арены - когда ты зайдешь на наш сайт в следующий раз, ты сможешь увидеть их снова!",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "Почему мое устройство не поддерживается? ",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "Мы стараемся использовать новейшие, самые быстрые и оптимальные технологии для PidgeyFinder. Некоторые из этих технологий несовместимы с устаревшими устройствами, браузерами или операционными системами. Для начала попробуй обновить браузер на свежую версию.",
+	"FAQ_SCAN_FAILED_TITLE": "Why do I get Scan failed? / Why is scanning taking so much time?",
+	"FAQ_SCAN_FAILED_TEXT": "5: Мощность наших серверов автоматически масштабириуется в зависимости от количества пользователей. Если все наши аккаунты окажутся заняты, сканирование может занять длительное время, либо же ты совсем не сможешь запустить сканирование. Попробуй позже!",
+	"FAQ_NO_LOCATE_TITLE": "Locate button is not working, what do I do?",
+	"FAQ_NO_LOCATE_TEXT": "Check that you have given locating permissions to PidgeyFinder. If you have given permissions and locating is not working, chances are we are fixing the problem.",
+	"FAQ_SHOW_LURES_TITLE": "How can I see lures?",
+	"FAQ_SHOW_LURES_TEXT": "Lures are only shown when the Pokéstop is fetched with a scan. This is to prevent giving wrong information about lures and when they expire.",
+
+	"SETTINGS_TITLE": "Настройки",
+	"SETTINGS_MAP_TITLE": "Map",
+	"SETTINGS_MAP_3D": "3D / map turning",
+	"SETTINGS_MAP_UPDATE_LOCATION": "Update location automatically",
+	"SETTINGS_MAP_CENTER_MAP": "Center map when location changes",
+	"SETTINGS_FILTERS_TITLE": "Filters",
+	"SETTINGS_FILTERS_GYMS": "Gyms",
+	"SETTINGS_FILTERS_POKESTOPS": "Pokéstops",
+	"SETTINGS_FILTERS_POKEMON": "Pokémon",
+	"SETTINGS_FILTERS_SHOWN_POKEMON": "Shown Pokémon",
+	"SETTINGS_FILTERS_SHOWN_POKEMON_RESET": "Reset",
+
+	"INPUT_TOGGLE_ON": "On",
+	"INPUT_TOGGLE_OFF": "Off"
+}
