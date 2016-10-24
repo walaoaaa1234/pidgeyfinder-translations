@@ -1,0 +1,48 @@
+{
+	"WELCOME_TITLE": "Bienvenue sur PidgeyFinder !",
+	"WELCOME_TEXT": "Bonjour et bienvenue sur PidgeyFinder ! PidgeyFinder est un site gratuit de map Pokémon Go. Vous n'avez pas besoin de vous inscrire ni de renseigner un compte Pokémon Go : tous les scans sont effectués sur notre serveur. Notre projet est open-source ! Allez donc voir notre {#github{GitHub}}, nous tweetons aussi {#twitter{ici}}.",
+	"WELCOME_SERVER_STATUS": "Statut du serveur",
+
+	"MODAL_SHOW_AGAIN": "Me le rappeler plus tard",
+	"MODAL_DISMISS": "Masquer",
+
+	"MENU_FAQ": "FAQ",
+	"MENU_RESET_2D": "Remettre en 2D",
+	"MENU_RELOAD": "Actualiser",
+	"MENU_LOCATE": "Localiser",
+	"MENU_SETTINGS": "Réglages",
+
+	"DONATE_TITLE": "Faire un don à PidgeyFinder",
+	"DONATE_TEXT": "PidgeyFinder vit uniquement grâce à vos dons et grâce aux revenus publicitaires. Nous avons besoin de contributions, que diriez-vous de nous aider ? Les revenus publicitaires seuls ne suffisent pas à garder notre service opérationnel. C'est pourquoi nous avons dû nous ouvrir aux donations. Nous acceptons les bitcoins et Paypal. Complétez votre don ci-dessous :",
+	"DONATE_BUTTON": "Donner via",
+	"DONATE_PAYPAL_TEXT": "Vous êtes old-school ? Nous avons ce qu'il vous faut : Paypal permet de donner via une carte bancaire ou de l'argent déjà sur Paypal.",
+	"DONATE_BITCOIN_TEXT": "Bitcoin est la monnaie du futur, venez-vous du futur ?! Bitcoin n'impose quasiment pas de frais, c'est le meilleur moyen pour nous aider financièrement.",
+
+	"FAQ_TITLE": "FAQ",
+	"FAQ_EXPLAIN": "Foire aux questions",
+	"FAQ_NOTHING_MAP_TITLE": "Rien ne s'affiche sur la carte ! Comment puis-je scanner ?",
+	"FAQ_NOTHING_MAP_TEXT": "Si la zone affichée sur la carte n'a pas encore été scannée, cliquez quelque part sur la carte. Notre serveur scannera la zone pour vous afficher les Pokémon, Pokéstops et les arènes. À votre prochaine visite, le site aura déjà en mémoire les Pokéstops et arènes précédemment scannées !",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "Pourquoi mon appareil n'est pas supporté ?",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "Nous nous efforçons d'utiliser les techniques les plus récentes et les plus efficaces pour faire fonctionner PidgeyFinder. Certaines de ces techniques ne sont pas supportées par les appareils, navigateurs ou systèmes d'exploitation trop anciens. Tentez d'y remédier en mettant à jour votre navigateur.",
+	"FAQ_SCAN_FAILED_TITLE": "Pourquoi ai-je une erreur de scan ? / Pourquoi un scan prend-il autant de temps ?",
+	"FAQ_SCAN_FAILED_TEXT": "Nos serveurs s'adaptent en temps réel selon le nombre de visiteurs. Si tous nos workers (instances de scan) sont utilisés, le temps de scan en sera impacté, il est même possible que vous ne puissez pas du tout scanner jusqu'à libération d'un worker. Essayez à nouveau après un certain temps.",
+	"FAQ_NO_LOCATE_TITLE": "Le bouton de localisation ne fonctionne pas, que faire ?",
+	"FAQ_NO_LOCATE_TEXT": "Vérifiez que vous avez bien donné les permissions de localisation à PidgeyFinder. Sur Chrome, cliquez sur le cadenas à gauche de l'adresse du site, si vous ne voyez pas « Localisation », cliquez sur « Paramètres du site. » Sur iOS, allez dans vos réglages généraux, puis dans « Confidentialité », puis sur « Localisation », « Safari », « lorsque l'app est active. » Si vous avez tout essayé pour donner les permissions et que cela ne fonctionne toujours pas, nous allons probablement résoudre le souci sous peu.",
+	"FAQ_SHOW_LURES_TITLE": "Comment puis-je voir les leurres ?",
+	"FAQ_SHOW_LURES_TEXT": "Les leurres ne sont detectés et affichés que lorsque les Pokéstops sont scannés par vos soins. Ceci dans le but d'éviter d'afficher des informations erronées compte-tenu du temps d'expiration court.",
+
+	"SETTINGS_TITLE": "Réglages",
+	"SETTINGS_MAP_TITLE": "Carte",
+	"SETTINGS_MAP_3D": "3D / carte oblique",
+	"SETTINGS_MAP_UPDATE_LOCATION": "Mettre à jour ma localisation automatiquement",
+	"SETTINGS_MAP_CENTER_MAP": "Recentrer la carte quand ma localisation change",
+	"SETTINGS_FILTERS_TITLE": "Filtres",
+	"SETTINGS_FILTERS_GYMS": "Arènes",
+	"SETTINGS_FILTERS_POKESTOPS": "Pokéstops",
+	"SETTINGS_FILTERS_POKEMON": "Pokémon",
+	"SETTINGS_FILTERS_SHOWN_POKEMON": "Pokémon affichés",
+	"SETTINGS_FILTERS_SHOWN_POKEMON_RESET": "Réinitialiser",
+
+	"INPUT_TOGGLE_ON": "On",
+	"INPUT_TOGGLE_OFF": "Off"
+}
