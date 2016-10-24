@@ -1,6 +1,6 @@
 {
 	"WELCOME_TITLE": "Welcome to PidgeyFinder",
-	"WELCOME_TEXT": "Hello, and welcome to PidgeyFinder! We're a free Pokémon Go mapping website. You do not need to register an account – all scans are executed in our servers. We are open source too! Visit our {#github{GitHub}} here and Twitter {#twitter{here}}.",
+	"WELCOME_TEXT": "Hello, and welcome to PidgeyFinder! We're a free Pokémon Go mapping website. You do not need to register an account – all scans are executed in our servers. We are open source too! Visit our GitHub {#github{here}} and Twitter {#twitter{here}}.",
 	"WELCOME_SERVER_STATUS": "Server Status",
 
 	"MODAL_SHOW_AGAIN": "Show again",
