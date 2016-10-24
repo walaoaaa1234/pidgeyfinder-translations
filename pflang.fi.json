@@ -1,0 +1,48 @@
+{
+	"WELCOME_TITLE": "Tervetuloa PidgeyFinderiin",
+	"WELCOME_TEXT": "Hei ja tervetuloa PidgeyFinderiin! Olemme ilmainen Pokémon Go-kartoituspalvelu. Sinun ei tarvitse rekisteröityä minnekkään – kaikki toiminnot tehdään meidän palvelimissa. Ohjelmistomme on avointa lähdekoodia. Löydät meidät GitHubista {#github{täältä}} ja Twitteristä {#twitter{täältä}}.",
+	"WELCOME_SERVER_STATUS": "Palvelimien Tila",
+
+	"MODAL_SHOW_AGAIN": "Näytä uudelleen",
+	"MODAL_DISMISS": "Poistu",
+
+	"MENU_FAQ": "UKK",
+	"MENU_RESET_2D": "Palauta 2D",
+	"MENU_RELOAD": "Päivitä",
+	"MENU_LOCATE": "Paikanna",
+	"MENU_SETTINGS": "Asetukset",
+
+	"DONATE_TITLE": "Lahjoita PidgeyFinderille",
+	"DONATE_TEXT": "PidgeyFinder pyörii vain lahjoitusten ja mainostulojen avulla. Tarvitsemme Sinun apua! Mainostulot eivät pidä meitä päällä pitkään. Pitääksemme palveluamme päällä, sallimme lahjoituksia. Lahjoitustapoina sallimme PayPalin ja Bitcoinin. Lahjoita alla:",
+	"DONATE_BUTTON": "Lahjoita maksutavalla",
+	"DONATE_PAYPAL_TEXT": "Suositko vanhoja tapoja? PayPalin avulla voit lahjoittaa luottokortilla tai PayPal-krediitillä.",
+	"DONATE_BITCOIN_TEXT": "Bitcoin on tulevaisuuden valuutta – oletko sinä tulevaisuudesta? Bitcoin on paras tapa lahjoittaa meille, sillä siitä ei tule meille lainkaan lisäkuluja.",
+
+	"FAQ_TITLE": "UKK",
+	"FAQ_EXPLAIN": "Usein kysytyt kysymykset",
+	"FAQ_NOTHING_MAP_TITLE": "Kartalla ei ole mitään? Kuinka skannaan?",
+	"FAQ_NOTHING_MAP_TEXT": "Jos katsoomaasi aluetta ei ole aikaisemmin skannattu, ei kartta näytä mitään. Skannaa alue klikkamalla haluamaasi kohtaa ja näytämme sinulle löytämämme Pokéstopit, Pokémonit sekä salit. Seuraavalla kerralla karttamme muistaa löytämäsi Pokéstopit ja salit!",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "Miksi laitettani ei tueta?",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "Pyrimme käyttämään mahdollisimman uusia ja nopeita teknologioita kun teemme PidgeyFinderiä. Jotkut näistä teknologioista ei tue vanhoja laitteita, selaimia tai käyttöjärjestelmiä. Aloita päivittämällä selaimesi.",
+	"FAQ_SCAN_FAILED_TITLE": "Miksi kartta sanoo Skannaus epäonnistui? / Miksi skannaus kestää kauan?",
+	"FAQ_SCAN_FAILED_TEXT": "Palvelimemme skaalautuu nykyisen käyttäjämääränmukaan. Jos kaikki työläisemme ovat käytössä, pyrimme saamaan uusia. Tällöin skannaaminen saattaa kestää tai epäonnistuu kokonaan. Yritä myöhemmin uudelleen!",
+	"FAQ_NO_LOCATE_TITLE": "Paikannuspainike ei toimi, mitä teen?",
+	"FAQ_NO_LOCATE_TEXT": "Tarkista, että olet antanut selaimellesi ja PidgeyFinderille luvan paikantaa sinut.",
+	"FAQ_SHOW_LURES_TITLE": "Kuinka näen luret?",
+	"FAQ_SHOW_LURES_TEXT": "Näet luret kun haet kartalla näkyvät Pokéstopit skannaamalla. Näin vältämme virheellisen tiedon antamisen, jolloin Pokéstopilla näyttäisi olevan lure, vaikkei sillä olekkaan.",
+
+	"SETTINGS_TITLE": "Asetukset",
+	"SETTINGS_MAP_TITLE": "Kartta",
+	"SETTINGS_MAP_3D": "3D / kartan kääntäminen",
+	"SETTINGS_MAP_UPDATE_LOCATION": "Päivitä sijainti automaattisesti",
+	"SETTINGS_MAP_CENTER_MAP": "Keskitä kartta sijainnin muuttuessa",
+	"SETTINGS_FILTERS_TITLE": "Suodattimet",
+	"SETTINGS_FILTERS_GYMS": "Salit",
+	"SETTINGS_FILTERS_POKESTOPS": "Pokéstopit",
+	"SETTINGS_FILTERS_POKEMON": "Pokémonit",
+	"SETTINGS_FILTERS_SHOWN_POKEMON": "Näytetyt Pokémonit",
+	"SETTINGS_FILTERS_SHOWN_POKEMON_RESET": "Palauta",
+
+	"INPUT_TOGGLE_ON": "Päällä",
+	"INPUT_TOGGLE_OFF": "Pois"
+}
