@@ -1,0 +1,48 @@
+{
+	"WELCOME_TITLE": "Witamy w PidgeyFinder",
+	"WELCOME_TEXT": "Witamy i zapraszamy do PidgeyFinder! Jesteśmy darmową stroną mapującą Pokémon Go. Nie trzeba rejestrować żadnego konta - wszystkie skany są wykonywane na naszych serwerach. Jesteśmy również open source! Odwiedź naszego {#github{GitHub'a}} tu i Twitter'a {#twitter{here}}.",
+	"WELCOME_SERVER_STATUS": "Status serwera",
+
+	"MODAL_SHOW_AGAIN": "Pokaż ponownie",
+	"MODAL_DISMISS": "Zamknij",
+
+	"MENU_FAQ": "FAQ",
+	"MENU_RESET_2D": "Odśwież w 2D",
+	"MENU_RELOAD": "Odśwież",
+	"MENU_LOCATE": "Zlokalizuj",
+	"MENU_SETTINGS": "Ustawienia",
+
+	"DONATE_TITLE": "Wpłac dotacje do PidgeyFinder",
+	"DONATE_TEXT": "PidgeyFinder utrzymuje się tylko z dotacji i reklam. Potrzebujemy Twojej pomocy! Same reklamy nie wystarczą na utrzymanie. Aby utrzymać nas serwis przy życiu, akceptujemy Dotacje. Akceptujemy Bitcoin oraz PayPal jako metody dotacji. Dotacja poniżej:",
+	"DONATE_BUTTON": "Złoż dotacje przez",
+	"DONATE_PAYPAL_TEXT": "Wolisz starsze metody? PayPal pozwala na dotacje przez kartę kredytową lub z salda PayPal.",
+	"DONATE_BITCOIN_TEXT": "Bitcoin jest walutą przyszłości. – jesteś z przyszłości? Bitcoin nie ma dodatkowych opłat i jest najlepszą dla nas metodą dotacji.",
+
+	"FAQ_TITLE": "FAQ",
+	"FAQ_EXPLAIN": "Najczęściej zadawane pytania",
+	"FAQ_NOTHING_MAP_TITLE": "Nic nie wyświetla się na mojej mapie! Jak mam rozpocząć skanowanie?",
+	"FAQ_NOTHING_MAP_TEXT": "Jeśli obszar który oglądasz nie był wcześniej skanowany, kliknij na mapę, a my zeskanujemy obszar w poszukiwaniu Pokémonów, Pokéstop'ów i gym'ów. Następnym razem kiedy odwiedzisz naszą stronę mapa będzie pamiętała lokalizacje Pokéstop'ów i gym'ów!",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "Dlaczego moje urządzenie nie jest obsługiwane?",
+	"FAQ_NO_DEVICE_SUPPORT_TITLE": "Staramy się korzystać z najnowszych, najszybszych i najbardziej optymalnych technologii przy tworzeniu PidgeyFinder. Niektóre z tych technologii nie działają ze starszymi urządzeniami, przeglądarkami czy systemami operacyjnymi. Zacznij od zaktualizowania swojej przeglądarki",
+	"FAQ_SCAN_FAILED_TITLE": "Czemu wyświetla mi się Scan Failed? / Dlaczego skanowanie trwa tak długo?",
+	"FAQ_SCAN_FAILED_TEXT": "Nasze serwery skalują automatycznie na podstawie aktualnej liczby użytkowników. Jeśli wszystkie nasze konta są aktualnie w użyciu czas skanowania może być bardzo długi lub skan będzie niemożliwy. Spróbuj ponownie później!",
+	"FAQ_NO_LOCATE_TITLE": "Przycisk Zlokalizuj nie działa, co powinienem zrobić?",
+	"FAQ_NO_LOCATE_TEXT": "Sprawdź czy masz uprawnienia do pobierania lokazliacji w PidgeyFinder. Jeśli zezwoliłeś na usługi lokazliacji PidgeyFinderowi, najprawdopodbniej błąd jest po naszej stronie i go naprawiamy.",
+	"FAQ_SHOW_LURES_TITLE": "Jak mogę zobaczyć lury?",
+	"FAQ_SHOW_LURES_TEXT": "Lury pokazywane są tylko jeśli Pokéstop został zeskanowany. To zapobiega wyświetlaniu błędnych informacji o lurze i o tym kiedy wygasa.",
+
+	"SETTINGS_TITLE": "Ustawienia",
+	"SETTINGS_MAP_TITLE": "Mapa",
+	"SETTINGS_MAP_3D": "3D / obracanie mapy",
+	"SETTINGS_MAP_UPDATE_LOCATION": "Automatycznie ustawiaj lokalizacje",
+	"SETTINGS_MAP_CENTER_MAP": "Wycentruj mapę przy zmiane lokazlizacji",
+	"SETTINGS_FILTERS_TITLE": "Filtry",
+	"SETTINGS_FILTERS_GYMS": "Gymy",
+	"SETTINGS_FILTERS_POKESTOPS": "Pokéstopy",
+	"SETTINGS_FILTERS_POKEMON": "Pokémony",
+	"SETTINGS_FILTERS_SHOWN_POKEMON": "Pokaż Pokémon",
+	"SETTINGS_FILTERS_SHOWN_POKEMON_RESET": "Wyczyść filtr",
+
+	"INPUT_TOGGLE_ON": "Włącz",
+	"INPUT_TOGGLE_OFF": "Wyłącz"
+}
