@@ -3,19 +3,19 @@
 	"WELCOME_TEXT": "您好，歡迎使用PidgeyFinder！我們是一個免費的精靈寶可夢Go地圖網站。您無須登陸您的賬號，所有掃描都在我們的服務器端執行。同時我們也是開源的！從這裏訪問我們的GitHub，這裏訪問我們的Twitter。",
 	"WELCOME_SERVER_STATUS": "服務器狀態",
 
-	"MODAL_SHOW_AGAIN": "Show again",
-	"MODAL_DISMISS": "Dismiss",
+	"MODAL_SHOW_AGAIN": "再次顯示",
+	"MODAL_DISMISS": "關閉",
 
-	"MENU_FAQ": "FAQ",
-	"MENU_RESET_2D": "Reset to 2D",
-	"MENU_RELOAD": "Reload",
+	"MENU_FAQ": "常見問題",
+	"MENU_RESET_2D": "重置為2D",
+	"MENU_RELOAD": "重新載入",
 	"MENU_LOCATE": "定位",
 	"MENU_SETTINGS": "設置",
 
-	"DONATE_TITLE": "Donate to PidgeyFinder",
+	"DONATE_TITLE": "捐款給PidgeyFinder",
 	"DONATE_TEXT": "PidgeyFinder runs only with donations and ad revenue. We need your help! Ad revenue won't keep our service up. To continue our service we allow donations. We accept Bitcoin and PayPal as donation methods. Donate below:",
-	"DONATE_BUTTON": "Donate with",
-	"DONATE_PAYPAL_TEXT": "Prefer old-fashioned ways? PayPal allows donating with credit cards or PayPal money.",
+	"DONATE_BUTTON": "選擇捐贈方式",
+	"DONATE_PAYPAL_TEXT": "更喜歡老式的方法? PayPal允許使用信用卡或PayPal money進行捐贈。",
 	"DONATE_BITCOIN_TEXT": "Bitcoin is the currency of the future – are you from the future? Bitcoin has no fees and is the best method to donate us money.",
 
 	"FAQ_TITLE": "常見問題",
@@ -43,6 +43,6 @@
 	"SETTINGS_FILTERS_SHOWN_POKEMON": "Shown Pokémon",
 	"SETTINGS_FILTERS_SHOWN_POKEMON_RESET": "Reset",
 
-	"INPUT_TOGGLE_ON": "On",
-	"INPUT_TOGGLE_OFF": "Off"
+	"INPUT_TOGGLE_ON": "開啟",
+	"INPUT_TOGGLE_OFF": "關閉"
 }
